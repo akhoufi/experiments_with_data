@@ -1,4 +1,4 @@
-path <- "C:/Users/akhoufi/Documents/Analytics Vidhya Workshop"
+path <- "C:/Users/akhoufi/Documents/Analytics Vidhya Workshop/experiments_with_data"
 setwd(path)
 train <- read.csv("train.csv")
 test <- read.csv("test.csv")
